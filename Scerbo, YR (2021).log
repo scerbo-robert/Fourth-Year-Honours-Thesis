@@ -1,0 +1,1977 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.15)  26 MAR 2021 01:57
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"Scerbo, YR (2021).tex"
+(./Scerbo, YR (2021).tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(/usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks17
+\pgfutil@tempdima=\dimen135
+\pgfutil@tempdimb=\dimen136
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box45
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen137
+\Gin@req@width=\dimen138
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks21
+))
+\pgf@x=\dimen139
+\pgf@y=\dimen140
+\pgf@xa=\dimen141
+\pgf@ya=\dimen142
+\pgf@xb=\dimen143
+\pgf@yb=\dimen144
+\pgf@xc=\dimen145
+\pgf@yc=\dimen146
+\pgf@xd=\dimen147
+\pgf@yd=\dimen148
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count175
+\c@pgf@countb=\count176
+\c@pgf@countc=\count177
+\c@pgf@countd=\count178
+\t@pgf@toka=\toks22
+\t@pgf@tokb=\toks23
+\t@pgf@tokc=\toks24
+\pgf@sys@id@count=\count179
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count180
+\pgfsyssoftpath@bigbuffer@items=\count181
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen149
+\pgfmath@count=\count182
+\pgfmath@box=\box46
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count183
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen150
+\pgf@picmaxx=\dimen151
+\pgf@picminy=\dimen152
+\pgf@picmaxy=\dimen153
+\pgf@pathminx=\dimen154
+\pgf@pathmaxx=\dimen155
+\pgf@pathminy=\dimen156
+\pgf@pathmaxy=\dimen157
+\pgf@xx=\dimen158
+\pgf@xy=\dimen159
+\pgf@yx=\dimen160
+\pgf@yy=\dimen161
+\pgf@zx=\dimen162
+\pgf@zy=\dimen163
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen164
+\pgf@path@lasty=\dimen165
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen166
+\pgf@shorten@start@additional=\dimen167
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box47
+\pgf@hbox=\box48
+\pgf@layerbox@main=\box49
+\pgf@picture@serial@count=\count184
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen168
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen169
+\pgf@pt@y=\dimen170
+\pgf@pt@temp=\dimen171
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen172
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen173
+\pgf@sys@shading@range@num=\count185
+\pgf@shadingcount=\count186
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box50
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
+tex
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box51
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen174
+\pgf@nodesepend=\dimen175
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/pgfplots/pgfplots.sty (/usr/lo
+cal/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2020/02/29 v1.17 Data Visualization (1.17)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen176
+\pgffor@skip=\dimen177
+\pgffor@stack=\toks28
+\pgffor@toks=\toks29
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count187
+\pgfplotmarksize=\dimen178
+)
+\tikz@lastx=\dimen179
+\tikz@lasty=\dimen180
+\tikz@lastxsaved=\dimen181
+\tikz@lastysaved=\dimen182
+\tikz@lastmovetox=\dimen183
+\tikz@lastmovetoy=\dimen184
+\tikzleveldistance=\dimen185
+\tikzsiblingdistance=\dimen186
+\tikz@figbox=\box52
+\tikz@figbox@bg=\box53
+\tikz@tempbox=\box54
+\tikz@tempbox@bg=\box55
+\tikztreelevel=\count188
+\tikznumberofchildren=\count189
+\tikznumberofcurrentchild=\count190
+\tikz@fig@count=\count191
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count192
+\pgfmatrixcurrentcolumn=\count193
+\pgf@matrix@numberofcolumns=\count194
+)
+\tikz@expandcount=\count195
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+\t@pgfplots@toka=\toks30
+\t@pgfplots@tokb=\toks31
+\t@pgfplots@tokc=\toks32
+\pgfplots@tmpa=\dimen187
+\c@pgfplots@coordindex=\count196
+\c@pgfplots@scanlineindex=\count197
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric
+.code.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.c
+ode.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplot
+soldpgfsupp_loader.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.cod
+e.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code
+.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+liststructure.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+liststructureext.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+array.code.tex
+\c@pgfplotsarray@tmp=\count198
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+matrix.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable
+shared.code.tex
+\c@pgfplotstable@counta=\count199
+\t@pgfplotstable@a=\toks33
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+deque.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.co
+de.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.da
+ta.code.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb
+.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplot
+s.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count266
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots
+.surfshading.pgfsys-pdftex.def)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.
+code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.cod
+e.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.c
+ode.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.c
+ode.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandle
+r.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.
+code.tex)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.
+tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessin
+g.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.cod
+e.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.
+tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.te
+x)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduledecoration
+s.code.tex
+\pgfdecoratedcompleteddistance=\dimen188
+\pgfdecoratedremainingdistance=\dimen189
+\pgfdecoratedinputsegmentcompleteddistance=\dimen190
+\pgfdecoratedinputsegmentremainingdistance=\dimen191
+\pgf@decorate@distancetomove=\dimen192
+\pgf@decorate@repeatstate=\count267
+\pgfdecorationsegmentamplitude=\dimen193
+\pgfdecorationsegmentlength=\dimen194
+)
+\tikz@lib@dec@box=\box56
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.pathmorphing.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.pathmorphing.code.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.pathreplacing.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.pathreplacing.code.tex))
+\pgfplots@numplots=\count268
+\pgfplots@xmin@reg=\dimen195
+\pgfplots@xmax@reg=\dimen196
+\pgfplots@ymin@reg=\dimen197
+\pgfplots@ymax@reg=\dimen198
+\pgfplots@zmin@reg=\dimen199
+\pgfplots@zmax@reg=\dimen256
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmar
+ks.code.tex
+File: pgflibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks34
+\ex@=\dimen257
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen258
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count269
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count270
+\leftroot@=\count271
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count272
+\DOTSCASE@=\count273
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box57
+\strutbox@=\box58
+\big@size=\dimen259
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count274
+\c@MaxMatrixCols=\count275
+\dotsspace@=\muskip17
+\c@parentequation=\count276
+\dspbrk@lvl=\count277
+\tag@help=\toks35
+\row@=\count278
+\column@=\count279
+\maxfields@=\count280
+\andhelp@=\toks36
+\eqnshift@=\dimen260
+\alignsep@=\dimen261
+\tagshift@=\dimen262
+\tagwidth@=\dimen263
+\totwidth@=\dimen264
+\lineht@=\dimen265
+\@envbody=\toks37
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks38
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/physics/physics.sty
+Package: physics 
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-03-06 L3 programming layer (loader) 
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count281
+\l__pdf_internal_box=\box59
+))
+Package: xparse 2020-03-06 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count282
+\g__xparse_grabber_int=\count283
+\l__xparse_m_args_int=\count284
+\l__xparse_v_nesting_int=\count285
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count286
+\lst@gtempboxa=\box60
+\lst@token=\toks39
+\lst@length=\count287
+\lst@currlwidth=\dimen266
+\lst@column=\count288
+\lst@pos=\count289
+\lst@lostspace=\dimen267
+\lst@width=\dimen268
+\lst@newlines=\count290
+\lst@lineno=\count291
+\lst@maxwidth=\dimen269
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count292
+\lst@skipnumbers=\count293
+\lst@framebox=\box61
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen270
+\captionmargin@=\dimen271
+\captionwidth=\dimen272
+\caption@tempdima=\dimen273
+\caption@indent=\dimen274
+\caption@parindent=\dimen275
+\caption@hangindent=\dimen276
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count294
+\c@continuedfloat=\count295
+Package caption Info: listings package is loaded.
+)
+\c@subfigure=\count296
+\c@subtable=\count297
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen277
+\Hy@linkcounter=\count298
+\Hy@pagecounter=\count299
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count300
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count301
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen278
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count302
+\Field@Width=\dimen279
+\Fld@charsize=\dimen280
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count303
+\c@Item=\count304
+\c@Hfootnote=\count305
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count306
+\c@bookmark@seq@number=\count307
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip52
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/bbold/bbold.sty
+Package: bbold 1994/04/06 Bbold symbol package
+LaTeX Font Info:    Redeclaring math alphabet \mathbb on input line 42.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
+File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count308
+\Gm@cntv=\count309
+\c@Gm@tempcnt=\count310
+\Gm@bindingoffset=\dimen281
+\Gm@wd@mp=\dimen282
+\Gm@odd@mp=\dimen283
+\Gm@even@mp=\dimen284
+\Gm@layoutwidth=\dimen285
+\Gm@layoutheight=\dimen286
+\Gm@layouthoffset=\dimen287
+\Gm@layoutvoffset=\dimen288
+\Gm@dimlist=\toks40
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/textgreek/textgreek.sty
+Package: textgreek 2011/10/09 v0.7 Greek symbols in text
+Package textgreek Info: Loading the definitions for the Greek fontencoding. on 
+input line 39.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/greek-fontenc/lgrenc.def
+File: lgrenc.def 2019/07/09 v0.13.3 LGR Greek font encoding definitions
+Now handling font encoding LGR ...
+... processing UTF-8 mapping file for font encoding LGR
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/greek-inputenc/lgrenc.dfu
+File: lgrenc.dfu 2019/07/11 1.7 UTF-8 support for Greek
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0259 (decimal 601)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+0374 (decimal 884)
+   defining Unicode char U+0375 (decimal 885)
+   defining Unicode char U+037A (decimal 890)
+   defining Unicode char U+037E (decimal 894)
+   defining Unicode char U+0384 (decimal 900)
+   defining Unicode char U+0385 (decimal 901)
+   defining Unicode char U+0386 (decimal 902)
+   defining Unicode char U+0387 (decimal 903)
+   defining Unicode char U+0388 (decimal 904)
+   defining Unicode char U+0389 (decimal 905)
+   defining Unicode char U+038A (decimal 906)
+   defining Unicode char U+038C (decimal 908)
+   defining Unicode char U+038E (decimal 910)
+   defining Unicode char U+038F (decimal 911)
+   defining Unicode char U+0390 (decimal 912)
+   defining Unicode char U+0391 (decimal 913)
+   defining Unicode char U+0392 (decimal 914)
+   defining Unicode char U+0393 (decimal 915)
+   defining Unicode char U+0394 (decimal 916)
+   defining Unicode char U+0395 (decimal 917)
+   defining Unicode char U+0396 (decimal 918)
+   defining Unicode char U+0397 (decimal 919)
+   defining Unicode char U+0398 (decimal 920)
+   defining Unicode char U+0399 (decimal 921)
+   defining Unicode char U+039A (decimal 922)
+   defining Unicode char U+039B (decimal 923)
+   defining Unicode char U+039C (decimal 924)
+   defining Unicode char U+039D (decimal 925)
+   defining Unicode char U+039E (decimal 926)
+   defining Unicode char U+039F (decimal 927)
+   defining Unicode char U+03A0 (decimal 928)
+   defining Unicode char U+03A1 (decimal 929)
+   defining Unicode char U+03A3 (decimal 931)
+   defining Unicode char U+03A4 (decimal 932)
+   defining Unicode char U+03A5 (decimal 933)
+   defining Unicode char U+03A6 (decimal 934)
+   defining Unicode char U+03A7 (decimal 935)
+   defining Unicode char U+03A8 (decimal 936)
+   defining Unicode char U+03A9 (decimal 937)
+   defining Unicode char U+03AA (decimal 938)
+   defining Unicode char U+03AB (decimal 939)
+   defining Unicode char U+03AC (decimal 940)
+   defining Unicode char U+03AD (decimal 941)
+   defining Unicode char U+03AE (decimal 942)
+   defining Unicode char U+03AF (decimal 943)
+   defining Unicode char U+03B0 (decimal 944)
+   defining Unicode char U+03B1 (decimal 945)
+   defining Unicode char U+03B2 (decimal 946)
+   defining Unicode char U+03B3 (decimal 947)
+   defining Unicode char U+03B4 (decimal 948)
+   defining Unicode char U+03B5 (decimal 949)
+   defining Unicode char U+03B6 (decimal 950)
+   defining Unicode char U+03B7 (decimal 951)
+   defining Unicode char U+03B8 (decimal 952)
+   defining Unicode char U+03B9 (decimal 953)
+   defining Unicode char U+03BA (decimal 954)
+   defining Unicode char U+03BB (decimal 955)
+   defining Unicode char U+03BC (decimal 956)
+   defining Unicode char U+03BD (decimal 957)
+   defining Unicode char U+03BE (decimal 958)
+   defining Unicode char U+03BF (decimal 959)
+   defining Unicode char U+03C0 (decimal 960)
+   defining Unicode char U+03C1 (decimal 961)
+   defining Unicode char U+03C2 (decimal 962)
+   defining Unicode char U+03C3 (decimal 963)
+   defining Unicode char U+03C4 (decimal 964)
+   defining Unicode char U+03C5 (decimal 965)
+   defining Unicode char U+03C6 (decimal 966)
+   defining Unicode char U+03C7 (decimal 967)
+   defining Unicode char U+03C8 (decimal 968)
+   defining Unicode char U+03C9 (decimal 969)
+   defining Unicode char U+03CA (decimal 970)
+   defining Unicode char U+03CB (decimal 971)
+   defining Unicode char U+03CC (decimal 972)
+   defining Unicode char U+03CD (decimal 973)
+   defining Unicode char U+03CE (decimal 974)
+   defining Unicode char U+03D0 (decimal 976)
+   defining Unicode char U+03D1 (decimal 977)
+   defining Unicode char U+03D5 (decimal 981)
+   defining Unicode char U+03D6 (decimal 982)
+   defining Unicode char U+03D8 (decimal 984)
+   defining Unicode char U+03D9 (decimal 985)
+   defining Unicode char U+03DA (decimal 986)
+   defining Unicode char U+03DB (decimal 987)
+   defining Unicode char U+03DC (decimal 988)
+   defining Unicode char U+03DD (decimal 989)
+   defining Unicode char U+03DF (decimal 991)
+   defining Unicode char U+03E0 (decimal 992)
+   defining Unicode char U+03E1 (decimal 993)
+   defining Unicode char U+03F0 (decimal 1008)
+   defining Unicode char U+03F1 (decimal 1009)
+   defining Unicode char U+03F4 (decimal 1012)
+   defining Unicode char U+03F5 (decimal 1013)
+   defining Unicode char U+1F00 (decimal 7936)
+   defining Unicode char U+1F01 (decimal 7937)
+   defining Unicode char U+1F02 (decimal 7938)
+   defining Unicode char U+1F03 (decimal 7939)
+   defining Unicode char U+1F04 (decimal 7940)
+   defining Unicode char U+1F05 (decimal 7941)
+   defining Unicode char U+1F06 (decimal 7942)
+   defining Unicode char U+1F07 (decimal 7943)
+   defining Unicode char U+1F08 (decimal 7944)
+   defining Unicode char U+1F09 (decimal 7945)
+   defining Unicode char U+1F0A (decimal 7946)
+   defining Unicode char U+1F0B (decimal 7947)
+   defining Unicode char U+1F0C (decimal 7948)
+   defining Unicode char U+1F0D (decimal 7949)
+   defining Unicode char U+1F0E (decimal 7950)
+   defining Unicode char U+1F0F (decimal 7951)
+   defining Unicode char U+1F10 (decimal 7952)
+   defining Unicode char U+1F11 (decimal 7953)
+   defining Unicode char U+1F12 (decimal 7954)
+   defining Unicode char U+1F13 (decimal 7955)
+   defining Unicode char U+1F14 (decimal 7956)
+   defining Unicode char U+1F15 (decimal 7957)
+   defining Unicode char U+1F18 (decimal 7960)
+   defining Unicode char U+1F19 (decimal 7961)
+   defining Unicode char U+1F1A (decimal 7962)
+   defining Unicode char U+1F1B (decimal 7963)
+   defining Unicode char U+1F1C (decimal 7964)
+   defining Unicode char U+1F1D (decimal 7965)
+   defining Unicode char U+1F20 (decimal 7968)
+   defining Unicode char U+1F21 (decimal 7969)
+   defining Unicode char U+1F22 (decimal 7970)
+   defining Unicode char U+1F23 (decimal 7971)
+   defining Unicode char U+1F24 (decimal 7972)
+   defining Unicode char U+1F25 (decimal 7973)
+   defining Unicode char U+1F26 (decimal 7974)
+   defining Unicode char U+1F27 (decimal 7975)
+   defining Unicode char U+1F28 (decimal 7976)
+   defining Unicode char U+1F29 (decimal 7977)
+   defining Unicode char U+1F2A (decimal 7978)
+   defining Unicode char U+1F2B (decimal 7979)
+   defining Unicode char U+1F2C (decimal 7980)
+   defining Unicode char U+1F2D (decimal 7981)
+   defining Unicode char U+1F2E (decimal 7982)
+   defining Unicode char U+1F2F (decimal 7983)
+   defining Unicode char U+1F30 (decimal 7984)
+   defining Unicode char U+1F31 (decimal 7985)
+   defining Unicode char U+1F32 (decimal 7986)
+   defining Unicode char U+1F33 (decimal 7987)
+   defining Unicode char U+1F34 (decimal 7988)
+   defining Unicode char U+1F35 (decimal 7989)
+   defining Unicode char U+1F36 (decimal 7990)
+   defining Unicode char U+1F37 (decimal 7991)
+   defining Unicode char U+1F38 (decimal 7992)
+   defining Unicode char U+1F39 (decimal 7993)
+   defining Unicode char U+1F3A (decimal 7994)
+   defining Unicode char U+1F3B (decimal 7995)
+   defining Unicode char U+1F3C (decimal 7996)
+   defining Unicode char U+1F3D (decimal 7997)
+   defining Unicode char U+1F3E (decimal 7998)
+   defining Unicode char U+1F3F (decimal 7999)
+   defining Unicode char U+1F40 (decimal 8000)
+   defining Unicode char U+1F41 (decimal 8001)
+   defining Unicode char U+1F42 (decimal 8002)
+   defining Unicode char U+1F43 (decimal 8003)
+   defining Unicode char U+1F44 (decimal 8004)
+   defining Unicode char U+1F45 (decimal 8005)
+   defining Unicode char U+1F48 (decimal 8008)
+   defining Unicode char U+1F49 (decimal 8009)
+   defining Unicode char U+1F4A (decimal 8010)
+   defining Unicode char U+1F4B (decimal 8011)
+   defining Unicode char U+1F4C (decimal 8012)
+   defining Unicode char U+1F4D (decimal 8013)
+   defining Unicode char U+1F50 (decimal 8016)
+   defining Unicode char U+1F51 (decimal 8017)
+   defining Unicode char U+1F52 (decimal 8018)
+   defining Unicode char U+1F53 (decimal 8019)
+   defining Unicode char U+1F54 (decimal 8020)
+   defining Unicode char U+1F55 (decimal 8021)
+   defining Unicode char U+1F56 (decimal 8022)
+   defining Unicode char U+1F57 (decimal 8023)
+   defining Unicode char U+1F59 (decimal 8025)
+   defining Unicode char U+1F5B (decimal 8027)
+   defining Unicode char U+1F5D (decimal 8029)
+   defining Unicode char U+1F5F (decimal 8031)
+   defining Unicode char U+1F60 (decimal 8032)
+   defining Unicode char U+1F61 (decimal 8033)
+   defining Unicode char U+1F62 (decimal 8034)
+   defining Unicode char U+1F63 (decimal 8035)
+   defining Unicode char U+1F64 (decimal 8036)
+   defining Unicode char U+1F65 (decimal 8037)
+   defining Unicode char U+1F66 (decimal 8038)
+   defining Unicode char U+1F67 (decimal 8039)
+   defining Unicode char U+1F68 (decimal 8040)
+   defining Unicode char U+1F69 (decimal 8041)
+   defining Unicode char U+1F6A (decimal 8042)
+   defining Unicode char U+1F6B (decimal 8043)
+   defining Unicode char U+1F6C (decimal 8044)
+   defining Unicode char U+1F6D (decimal 8045)
+   defining Unicode char U+1F6E (decimal 8046)
+   defining Unicode char U+1F6F (decimal 8047)
+   defining Unicode char U+1F70 (decimal 8048)
+   defining Unicode char U+1F71 (decimal 8049)
+   defining Unicode char U+1F72 (decimal 8050)
+   defining Unicode char U+1F73 (decimal 8051)
+   defining Unicode char U+1F74 (decimal 8052)
+   defining Unicode char U+1F75 (decimal 8053)
+   defining Unicode char U+1F76 (decimal 8054)
+   defining Unicode char U+1F77 (decimal 8055)
+   defining Unicode char U+1F78 (decimal 8056)
+   defining Unicode char U+1F79 (decimal 8057)
+   defining Unicode char U+1F7A (decimal 8058)
+   defining Unicode char U+1F7B (decimal 8059)
+   defining Unicode char U+1F7C (decimal 8060)
+   defining Unicode char U+1F7D (decimal 8061)
+   defining Unicode char U+1F80 (decimal 8064)
+   defining Unicode char U+1F81 (decimal 8065)
+   defining Unicode char U+1F82 (decimal 8066)
+   defining Unicode char U+1F83 (decimal 8067)
+   defining Unicode char U+1F84 (decimal 8068)
+   defining Unicode char U+1F85 (decimal 8069)
+   defining Unicode char U+1F86 (decimal 8070)
+   defining Unicode char U+1F87 (decimal 8071)
+   defining Unicode char U+1F88 (decimal 8072)
+   defining Unicode char U+1F89 (decimal 8073)
+   defining Unicode char U+1F8A (decimal 8074)
+   defining Unicode char U+1F8B (decimal 8075)
+   defining Unicode char U+1F8C (decimal 8076)
+   defining Unicode char U+1F8D (decimal 8077)
+   defining Unicode char U+1F8E (decimal 8078)
+   defining Unicode char U+1F8F (decimal 8079)
+   defining Unicode char U+1F90 (decimal 8080)
+   defining Unicode char U+1F91 (decimal 8081)
+   defining Unicode char U+1F92 (decimal 8082)
+   defining Unicode char U+1F93 (decimal 8083)
+   defining Unicode char U+1F94 (decimal 8084)
+   defining Unicode char U+1F95 (decimal 8085)
+   defining Unicode char U+1F96 (decimal 8086)
+   defining Unicode char U+1F97 (decimal 8087)
+   defining Unicode char U+1F98 (decimal 8088)
+   defining Unicode char U+1F99 (decimal 8089)
+   defining Unicode char U+1F9A (decimal 8090)
+   defining Unicode char U+1F9B (decimal 8091)
+   defining Unicode char U+1F9C (decimal 8092)
+   defining Unicode char U+1F9D (decimal 8093)
+   defining Unicode char U+1F9E (decimal 8094)
+   defining Unicode char U+1F9F (decimal 8095)
+   defining Unicode char U+1FA0 (decimal 8096)
+   defining Unicode char U+1FA1 (decimal 8097)
+   defining Unicode char U+1FA2 (decimal 8098)
+   defining Unicode char U+1FA3 (decimal 8099)
+   defining Unicode char U+1FA4 (decimal 8100)
+   defining Unicode char U+1FA5 (decimal 8101)
+   defining Unicode char U+1FA6 (decimal 8102)
+   defining Unicode char U+1FA7 (decimal 8103)
+   defining Unicode char U+1FA8 (decimal 8104)
+   defining Unicode char U+1FA9 (decimal 8105)
+   defining Unicode char U+1FAA (decimal 8106)
+   defining Unicode char U+1FAB (decimal 8107)
+   defining Unicode char U+1FAC (decimal 8108)
+   defining Unicode char U+1FAD (decimal 8109)
+   defining Unicode char U+1FAE (decimal 8110)
+   defining Unicode char U+1FAF (decimal 8111)
+   defining Unicode char U+1FB0 (decimal 8112)
+   defining Unicode char U+1FB1 (decimal 8113)
+   defining Unicode char U+1FB2 (decimal 8114)
+   defining Unicode char U+1FB3 (decimal 8115)
+   defining Unicode char U+1FB4 (decimal 8116)
+   defining Unicode char U+1FB6 (decimal 8118)
+   defining Unicode char U+1FB7 (decimal 8119)
+   defining Unicode char U+1FB8 (decimal 8120)
+   defining Unicode char U+1FB9 (decimal 8121)
+   defining Unicode char U+1FBA (decimal 8122)
+   defining Unicode char U+1FBB (decimal 8123)
+   defining Unicode char U+1FBC (decimal 8124)
+   defining Unicode char U+1FBD (decimal 8125)
+   defining Unicode char U+1FBE (decimal 8126)
+   defining Unicode char U+1FBF (decimal 8127)
+   defining Unicode char U+1FC0 (decimal 8128)
+   defining Unicode char U+1FC1 (decimal 8129)
+   defining Unicode char U+1FC2 (decimal 8130)
+   defining Unicode char U+1FC3 (decimal 8131)
+   defining Unicode char U+1FC4 (decimal 8132)
+   defining Unicode char U+1FC6 (decimal 8134)
+   defining Unicode char U+1FC7 (decimal 8135)
+   defining Unicode char U+1FC8 (decimal 8136)
+   defining Unicode char U+1FC9 (decimal 8137)
+   defining Unicode char U+1FCA (decimal 8138)
+   defining Unicode char U+1FCB (decimal 8139)
+   defining Unicode char U+1FCC (decimal 8140)
+   defining Unicode char U+1FCD (decimal 8141)
+   defining Unicode char U+1FCE (decimal 8142)
+   defining Unicode char U+1FCF (decimal 8143)
+   defining Unicode char U+1FD0 (decimal 8144)
+   defining Unicode char U+1FD1 (decimal 8145)
+   defining Unicode char U+1FD2 (decimal 8146)
+   defining Unicode char U+1FD3 (decimal 8147)
+   defining Unicode char U+1FD6 (decimal 8150)
+   defining Unicode char U+1FD7 (decimal 8151)
+   defining Unicode char U+1FD8 (decimal 8152)
+   defining Unicode char U+1FD9 (decimal 8153)
+   defining Unicode char U+1FDA (decimal 8154)
+   defining Unicode char U+1FDB (decimal 8155)
+   defining Unicode char U+1FDD (decimal 8157)
+   defining Unicode char U+1FDE (decimal 8158)
+   defining Unicode char U+1FDF (decimal 8159)
+   defining Unicode char U+1FE0 (decimal 8160)
+   defining Unicode char U+1FE1 (decimal 8161)
+   defining Unicode char U+1FE2 (decimal 8162)
+   defining Unicode char U+1FE3 (decimal 8163)
+   defining Unicode char U+1FE4 (decimal 8164)
+   defining Unicode char U+1FE5 (decimal 8165)
+   defining Unicode char U+1FE6 (decimal 8166)
+   defining Unicode char U+1FE7 (decimal 8167)
+   defining Unicode char U+1FE8 (decimal 8168)
+   defining Unicode char U+1FE9 (decimal 8169)
+   defining Unicode char U+1FEA (decimal 8170)
+   defining Unicode char U+1FEB (decimal 8171)
+   defining Unicode char U+1FEC (decimal 8172)
+   defining Unicode char U+1FED (decimal 8173)
+   defining Unicode char U+1FEE (decimal 8174)
+   defining Unicode char U+1FEF (decimal 8175)
+   defining Unicode char U+1FF2 (decimal 8178)
+   defining Unicode char U+1FF3 (decimal 8179)
+   defining Unicode char U+1FF4 (decimal 8180)
+   defining Unicode char U+1FF6 (decimal 8182)
+   defining Unicode char U+1FF7 (decimal 8183)
+   defining Unicode char U+1FF8 (decimal 8184)
+   defining Unicode char U+1FF9 (decimal 8185)
+   defining Unicode char U+1FFA (decimal 8186)
+   defining Unicode char U+1FFB (decimal 8187)
+   defining Unicode char U+1FFC (decimal 8188)
+   defining Unicode char U+1FFD (decimal 8189)
+   defining Unicode char U+1FFE (decimal 8190)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+10144 (decimal 65860)
+   defining Unicode char U+10145 (decimal 65861)
+   defining Unicode char U+10146 (decimal 65862)
+   defining Unicode char U+10147 (decimal 65863)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
+File: greek-fontenc.def 2015/08/04 v0.13.4 Common Greek font encoding definitio
+ns
+))
+Package textgreek Info: Loaded fontmap: {eur/*/*}{U/eur/*/*} {phv/*/*}{U/psy/*/
+*}. on input line 69.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/flafter.sty
+Package: flafter 2018/11/28 v1.4d Standard LaTeX floats after reference (FMi)
+Applying: [2015/01/01] float order in 2-column on input line 49.
+Already applied: [0000/00/00] float order in 2-column on input line 151.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count311
+\float@exts=\toks41
+\float@box=\box62
+\@float@everytoks=\toks42
+\@floatcapt=\box63
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/matlab-prettifier/matlab-prettifi
+er.sty
+Package: matlab-prettifier 2014/06/19 v0.3 A package for prettyprinting Matlab 
+source code
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+\netBracketCount@mlpr=\count312
+\blkLvl@mlpr=\count313
+\blkLvlAtClassdef@mlpr=\count314
+\emHeight@mlpr=\skip53
+\jayDepth@mlpr=\skip54
+\sectionRuleOffset@mlpr=\skip55
+\toks@mlpr=\toks43
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip56
+\f@nch@O@elh=\skip57
+\f@nch@O@erh=\skip58
+\f@nch@O@olh=\skip59
+\f@nch@O@orh=\skip60
+\f@nch@O@elf=\skip61
+\f@nch@O@erf=\skip62
+\f@nch@O@olf=\skip63
+\f@nch@O@orf=\skip64
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 67.
+
+(./Scerbo, YR (2021).aux)
+\openout1 = `"Scerbo, YR (2021).aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 69.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 6
+9.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
+File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
+)
+LaTeX Font Info:    ... okay on input line 69.
+
+ABD: EveryShipout initializing macros
+(/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count315
+\scratchdimen=\dimen289
+\scratchbox=\box64
+\nofMPsegments=\count316
+\nofMParguments=\count317
+\everyMPshowfont=\toks44
+\MPscratchCnt=\count318
+\MPscratchDim=\dimen290
+\MPnumerator=\count319
+\makeMPintoPDFobject=\count320
+\everyMPtoPDFconversion=\toks45
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into 
+your preamble.
+ on input line 69.
+
+\c@lstlisting=\count321
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box65
+Package hyperref Info: Link coloring ON on input line 69.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count322
+)
+LaTeX Info: Redefining \ref on input line 69.
+LaTeX Info: Redefining \pageref on input line 69.
+LaTeX Info: Redefining \nameref on input line 69.
+ (./Scerbo, YR (2021).out) (./Scerbo, YR (2021).out)
+\@outlinefile=\write4
+\openout4 = `"Scerbo, YR (2021).out"'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includefoot 
+* h-part:(L,W,R)=(101.17755pt, 440.84746pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=440.84746pt
+* \textheight=620.43001pt
+* \oddsidemargin=28.90756pt
+* \evensidemargin=28.90756pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+<../Images_Thesis_Presentation/logogael.png, id=99, 352.1958pt x 127.1952pt>
+File: ../Images_Thesis_Presentation/logogael.png Graphic file (type png)
+<use ../Images_Thesis_Presentation/logogael.png>
+Package pdftex.def Info: ../Images_Thesis_Presentation/logogael.png  used on in
+put line 98.
+(pdftex.def)             Requested size: 352.19495pt x 127.19489pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 121
+.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 121
+.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../Imag
+es_Thesis_Presentation/logogael.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 13.59999pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 180--182
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
+
+ []
+
+[3] (./Scerbo, YR (2021).toc)
+\tf@toc=\write5
+\openout5 = `"Scerbo, YR (2021).toc"'.
+
+ [4
+
+] (./Scerbo, YR (2021).lof)
+\tf@lof=\write6
+\openout6 = `"Scerbo, YR (2021).lof"'.
+
+ [5]
+(./Scerbo, YR (2021).lot)
+\tf@lot=\write7
+\openout7 = `"Scerbo, YR (2021).lot"'.
+
+ [6
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--248
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.255 ...they were introduced previously. \newpage
+                                                   [1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 257--258
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--260
+
+ []
+
+[2]
+</Users/bud/Desktop/Project/Images_Thesis_Presentation/artificial neuron.png, i
+d=280, 612.2875pt x 500.87125pt>
+File: /Users/bud/Desktop/Project/Images_Thesis_Presentation/artificial neuron.p
+ng Graphic file (type png)
+<use /Users/bud/Desktop/Project/Images_Thesis_Presentation/artificial neuron.pn
+g>
+Package pdftex.def Info: /Users/bud/Desktop/Project/Images_Thesis_Presentation/
+artificial neuron.png  used on input line 290.
+(pdftex.def)             Requested size: 220.42372pt x 180.3135pt.
+ [3 </Users/bud/Desktop/Project/Images_Thesis_Presentation/artificial neuron.pn
+g (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 310--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--321
+
+ []
+
+[4]
+<../Images_Thesis_Presentation/perceptron.png, id=313, 791.95876pt x 316.68312p
+t>
+File: ../Images_Thesis_Presentation/perceptron.png Graphic file (type png)
+<use ../Images_Thesis_Presentation/perceptron.png>
+Package pdftex.def Info: ../Images_Thesis_Presentation/perceptron.png  used on 
+input line 351.
+(pdftex.def)             Requested size: 396.76001pt x 158.65526pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5]
+<../Images_Thesis_Presentation/ff_network.png, id=330, 473.77pt x 285.065pt>
+File: ../Images_Thesis_Presentation/ff_network.png Graphic file (type png)
+<use ../Images_Thesis_Presentation/ff_network.png>
+Package pdftex.def Info: ../Images_Thesis_Presentation/ff_network.png  used on 
+input line 366.
+(pdftex.def)             Requested size: 220.42372pt x 132.62779pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 371--372
+
+ []
+
+[6 <../Images_Thesis_Presentation/perceptron.png>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 375.
+
+<../Images_Thesis_Presentation/multilayer2.png, id=346, 935.99687pt x 296.60812
+pt>
+File: ../Images_Thesis_Presentation/multilayer2.png Graphic file (type png)
+<use ../Images_Thesis_Presentation/multilayer2.png>
+Package pdftex.def Info: ../Images_Thesis_Presentation/multilayer2.png  used on
+ input line 377.
+(pdftex.def)             Requested size: 352.6793pt x 111.76181pt.
+[7 <../Images_Thesis_Presentation/ff_network.png> <../Images_Thesis_Presentatio
+n/multilayer2.png>] [8]
+<../Images_Thesis_Presentation/rnn1.png, id=375, 1315.91624pt x 384.93813pt>
+File: ../Images_Thesis_Presentation/rnn1.png Graphic file (type png)
+<use ../Images_Thesis_Presentation/rnn1.png>
+Package pdftex.def Info: ../Images_Thesis_Presentation/rnn1.png  used on input 
+line 411.
+(pdftex.def)             Requested size: 374.72302pt x 109.61452pt.
+ [9 <../Images_Thesis_Presentation/rnn1.png>] [10]
+[11]
+<../../../Documents/MATLAB/MATLAB_Project/esn/recursive.png, id=425, 265.4718pt
+ x 192.72pt>
+File: ../../../Documents/MATLAB/MATLAB_Project/esn/recursive.png Graphic file (
+type png)
+<use ../../../Documents/MATLAB/MATLAB_Project/esn/recursive.png>
+Package pdftex.def Info: ../../../Documents/MATLAB/MATLAB_Project/esn/recursive
+.png  used on input line 463.
+(pdftex.def)             Requested size: 220.42372pt x 160.01636pt.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 4
+68.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 468.
+ [12 <../../../Documents/MATLAB/MATLAB_Project/esn/recursive.png>]
+<../Images_Thesis_Presentation/Topology-of-Hopfield-networks-here-with-3-neuron
+s-as-an-example-Linear-transfer.png, id=447, 847.165pt x 325.215pt>
+File: ../Images_Thesis_Presentation/Topology-of-Hopfield-networks-here-with-3-n
+eurons-as-an-example-Linear-transfer.png Graphic file (type png)
+<use ../Images_Thesis_Presentation/Topology-of-Hopfield-networks-here-with-3-ne
+urons-as-an-example-Linear-transfer.png>
+Package pdftex.def Info: ../Images_Thesis_Presentation/Topology-of-Hopfield-net
+works-here-with-3-neurons-as-an-example-Linear-transfer.png  used on input line
+ 472.
+(pdftex.def)             Requested size: 352.6793pt x 135.38847pt.
+
+Overfull \hbox (4.82019pt too wide) in paragraph at lines 482--482
+[]\OT1/cmr/m/n/10.95 In J Schmid-hu-ber's 1992 pa-per he in-tro-duced a deep le
+arner
+ []
+
+[13 <../Images_Thesis_Presentation/Topology-of-Hopfield-networks-here-with-3-ne
+urons-as-an-example-Linear-transfer.png>]
+<../Images_Thesis_Presentation/lstm.png, id=470, 1067.48813pt x 580.1675pt>
+File: ../Images_Thesis_Presentation/lstm.png Graphic file (type png)
+<use ../Images_Thesis_Presentation/lstm.png>
+Package pdftex.def Info: ../Images_Thesis_Presentation/lstm.png  used on input 
+line 488.
+(pdftex.def)             Requested size: 396.76001pt x 215.63239pt.
+ [14 <../Images_Thesis_Presentation/lstm.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 503--504
+
+ []
+
+[15] [16]
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+
+ []
+
+<../../../Documents/MATLAB/MATLAB_Project/esn/attractor.jpg, id=518, 1124.2pt x
+ 843.15pt>
+File: ../../../Documents/MATLAB/MATLAB_Project/esn/attractor.jpg Graphic file (
+type jpg)
+<use ../../../Documents/MATLAB/MATLAB_Project/esn/attractor.jpg>
+Package pdftex.def Info: ../../../Documents/MATLAB/MATLAB_Project/esn/attractor
+.jpg  used on input line 553.
+(pdftex.def)             Requested size: 176.33629pt x 132.2436pt.
+[17 <../../../Documents/MATLAB/MATLAB_Project/esn/attractor.jpg>]
+<../Images_Thesis_Presentation/esn.png, id=538, 984.67876pt x 605.76312pt>
+File: ../Images_Thesis_Presentation/esn.png Graphic file (type png)
+<use ../Images_Thesis_Presentation/esn.png>
+Package pdftex.def Info: ../Images_Thesis_Presentation/esn.png  used on input l
+ine 570.
+(pdftex.def)             Requested size: 374.72302pt x 230.52513pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[18 <../Images_Thesis_Presentation/esn.png>]
+LaTeX Font Info:    Trying to load font information for U+bbold on input line 6
+10.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/bbold/Ubbold.fd) [19]
+Underfull \hbox (badness 10000) in paragraph at lines 614--615
+
+ []
+
+[20]
+
+LaTeX Warning: Hyper reference `appenix' on page 21 undefined on input line 651
+.
+
+<../../../Documents/MATLAB/MATLAB_Project/esn/1_iNPHcCxIvcm7RwkRaMTx1g.jpeg, id
+=573, 602.25pt x 350.30875pt>
+File: ../../../Documents/MATLAB/MATLAB_Project/esn/1_iNPHcCxIvcm7RwkRaMTx1g.jpe
+g Graphic file (type jpg)
+<use ../../../Documents/MATLAB/MATLAB_Project/esn/1_iNPHcCxIvcm7RwkRaMTx1g.jpeg
+>
+Package pdftex.def Info: ../../../Documents/MATLAB/MATLAB_Project/esn/1_iNPHcCx
+Ivcm7RwkRaMTx1g.jpeg  used on input line 664.
+(pdftex.def)             Requested size: 198.38pt x 115.38843pt.
+[21 <../../../Documents/MATLAB/MATLAB_Project/esn/1_iNPHcCxIvcm7RwkRaMTx1g.jpeg
+>]
+Underfull \hbox (badness 10000) in paragraph at lines 695--697
+
+ []
+
+[22] [23]
+<../Images_Thesis_Presentation/Example_trajectories.jpg, id=611, 1124.2pt x 843
+.15pt>
+File: ../Images_Thesis_Presentation/Example_trajectories.jpg Graphic file (type
+ jpg)
+<use ../Images_Thesis_Presentation/Example_trajectories.jpg>
+Package pdftex.def Info: ../Images_Thesis_Presentation/Example_trajectories.jpg
+  used on input line 776.
+(pdftex.def)             Requested size: 361.49814pt x 271.12578pt.
+ [24 <../Images_Thesis_Presentation/Example_trajectories.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 786--788
+
+ []
+
+<../../../Documents/MATLAB/MATLAB_Project/esn/p_0.5_a_0.5_xlim.jpg, id=622, 100
+5.7575pt x 403.5075pt>
+File: ../../../Documents/MATLAB/MATLAB_Project/esn/p_0.5_a_0.5_xlim.jpg Graphic
+ file (type jpg)
+<use ../../../Documents/MATLAB/MATLAB_Project/esn/p_0.5_a_0.5_xlim.jpg>
+Package pdftex.def Info: ../../../Documents/MATLAB/MATLAB_Project/esn/p_0.5_a_0
+.5_xlim.jpg  used on input line 793.
+(pdftex.def)             Requested size: 317.4107pt x 127.3395pt.
+[25 <../../../Documents/MATLAB/MATLAB_Project/esn/p_0.5_a_0.5_xlim.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 799--801
+
+ []
+
+<../../../Documents/MATLAB/MATLAB_Project/esn/p_0.95_a_1.1_xlim250_notransient.
+jpg, id=631, 1124.2pt x 843.15pt>
+File: ../../../Documents/MATLAB/MATLAB_Project/esn/p_0.95_a_1.1_xlim250_notrans
+ient.jpg Graphic file (type jpg)
+<use ../../../Documents/MATLAB/MATLAB_Project/esn/p_0.95_a_1.1_xlim250_notransi
+ent.jpg>
+Package pdftex.def Info: ../../../Documents/MATLAB/MATLAB_Project/esn/p_0.95_a_
+1.1_xlim250_notransient.jpg  used on input line 804.
+(pdftex.def)             Requested size: 440.84746pt x 330.62833pt.
+[26 <../../../Documents/MATLAB/MATLAB_Project/esn/p_0.95_a_1.1_xlim250_notransi
+ent.jpg>]
+<../../../Documents/MATLAB/MATLAB_Project/esn/p_1.1_a_0.05_noxlim.jpg, id=640, 
+1009.7725pt x 791.95876pt>
+File: ../../../Documents/MATLAB/MATLAB_Project/esn/p_1.1_a_0.05_noxlim.jpg Grap
+hic file (type jpg)
+<use ../../../Documents/MATLAB/MATLAB_Project/esn/p_1.1_a_0.05_noxlim.jpg>
+Package pdftex.def Info: ../../../Documents/MATLAB/MATLAB_Project/esn/p_1.1_a_0
+.05_noxlim.jpg  used on input line 814.
+(pdftex.def)             Requested size: 405.57884pt x 318.09508pt.
+<../../../Documents/MATLAB/MATLAB_Project/esn/p_1.1_a_0.95_noxlim_notransient.j
+pg, id=644, 1006.76125pt x 776.9025pt>
+File: ../../../Documents/MATLAB/MATLAB_Project/esn/p_1.1_a_0.95_noxlim_notransi
+ent.jpg Graphic file (type jpg)
+<use ../../../Documents/MATLAB/MATLAB_Project/esn/p_1.1_a_0.95_noxlim_notransie
+nt.jpg>
+Package pdftex.def Info: ../../../Documents/MATLAB/MATLAB_Project/esn/p_1.1_a_0
+.95_noxlim_notransient.jpg  used on input line 823.
+(pdftex.def)             Requested size: 374.72302pt x 289.16833pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<../../../Documents/MATLAB/MATLAB_Project/esn/cup2.jpg, id=648, 999.735pt x 780
+.9175pt>
+File: ../../../Documents/MATLAB/MATLAB_Project/esn/cup2.jpg Graphic file (type 
+jpg)
+<use ../../../Documents/MATLAB/MATLAB_Project/esn/cup2.jpg>
+Package pdftex.def Info: ../../../Documents/MATLAB/MATLAB_Project/esn/cup2.jpg 
+ used on input line 830.
+(pdftex.def)             Requested size: 264.51115pt x 206.6085pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[27 <../../../Documents/MATLAB/MATLAB_Project/esn/p_1.1_a_0.05_noxlim.jpg>]
+
+LaTeX Warning: Text page 28 contains only floats.
+
+
+Overfull \vbox (0.34683pt too high) has occurred while \output is active []
+
+
+[28 <../../../Documents/MATLAB/MATLAB_Project/esn/p_1.1_a_0.95_noxlim_notransie
+nt.jpg> <../../../Documents/MATLAB/MATLAB_Project/esn/cup2.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 837--839
+
+ []
+
+<../../../Documents/MATLAB/MATLAB_Project/esn/p_1.5_a_1.1_noxlim_t_2000.jpg, id
+=666, 999.735pt x 787.94376pt>
+File: ../../../Documents/MATLAB/MATLAB_Project/esn/p_1.5_a_1.1_noxlim_t_2000.jp
+g Graphic file (type jpg)
+<use ../../../Documents/MATLAB/MATLAB_Project/esn/p_1.5_a_1.1_noxlim_t_2000.jpg
+>
+Package pdftex.def Info: ../../../Documents/MATLAB/MATLAB_Project/esn/p_1.5_a_1
+.1_noxlim_t_2000.jpg  used on input line 842.
+(pdftex.def)             Requested size: 440.84746pt x 347.45378pt.
+[29 <../../../Documents/MATLAB/MATLAB_Project/esn/p_1.5_a_1.1_noxlim_t_2000.jpg
+>]
+Underfull \hbox (badness 10000) in paragraph at lines 847--848
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 849--850
+
+ []
+
+[30]
+Overfull \hbox (20.23764pt too wide) in paragraph at lines 874--875
+[]\OT1/cmr/m/n/10.95 An RC is trained as fol-lows. Train-ing data con-sists of 
+three in-put time-series $\OMS/cmsy/m/n/10.95 f\OML/cmm/m/it/10.95 x\OT1/cmr/m/
+n/10.95 (\OML/cmm/m/it/10.95 t\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 ; y\OT1/c
+mr/m/n/10.95 (\OML/cmm/m/it/10.95 t\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 ; z\
+OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 t\OT1/cmr/m/n/10.95 )\OMS/cmsy/m/n/10.95
+ g 2
+ []
+
+[31] [32]
+<../../../Documents/MATLAB/MATLAB_Project/esn/N=200,T=10k,Intstep=0.01./actual_
+x.jpg, id=707, 1123.19624pt x 187.70125pt>
+File: ../../../Documents/MATLAB/MATLAB_Project/esn/N=200,T=10k,Intstep=0.01./ac
+tual_x.jpg Graphic file (type jpg)
+<use ../../../Documents/MATLAB/MATLAB_Project/esn/N=200,T=10k,Intstep=0.01./act
+ual_x.jpg>
+Package pdftex.def Info: ../../../Documents/MATLAB/MATLAB_Project/esn/N=200,T=1
+0k,Intstep=0.01./actual_x.jpg  used on input line 910.
+(pdftex.def)             Requested size: 440.84746pt x 73.67003pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--916
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 917--919
+
+ []
+
+[33 <../../../Documents/MATLAB/MATLAB_Project/esn/N=200,T=10k,Intstep=0.01./act
+ual_x.jpg>] [34]
+<../../../Documents/MATLAB/MATLAB_Project/esn/N=200,T=10k,Intstep=0.01./timeser
+ies.jpg, id=723, 1112.155pt x 787.94376pt>
+File: ../../../Documents/MATLAB/MATLAB_Project/esn/N=200,T=10k,Intstep=0.01./ti
+meseries.jpg Graphic file (type jpg)
+<use ../../../Documents/MATLAB/MATLAB_Project/esn/N=200,T=10k,Intstep=0.01./tim
+eseries.jpg>
+Package pdftex.def Info: ../../../Documents/MATLAB/MATLAB_Project/esn/N=200,T=1
+0k,Intstep=0.01./timeseries.jpg  used on input line 986.
+(pdftex.def)             Requested size: 396.76001pt x 281.09863pt.
+ [35 <../../../Documents/MATLAB/MATLAB_Project/esn/N=200,T=10k,Intstep=0.01./ti
+meseries.jpg>]
+<../../../Documents/MATLAB/MATLAB_Project/esn/N=200,T=10k,Intstep=0.01./poincar
+e.jpg, id=732, 1124.2pt x 843.15pt>
+File: ../../../Documents/MATLAB/MATLAB_Project/esn/N=200,T=10k,Intstep=0.01./po
+incare.jpg Graphic file (type jpg)
+<use ../../../Documents/MATLAB/MATLAB_Project/esn/N=200,T=10k,Intstep=0.01./poi
+ncare.jpg>
+Package pdftex.def Info: ../../../Documents/MATLAB/MATLAB_Project/esn/N=200,T=1
+0k,Intstep=0.01./poincare.jpg  used on input line 1001.
+(pdftex.def)             Requested size: 374.72302pt x 281.03215pt.
+ [36 <../../../Documents/MATLAB/MATLAB_Project/esn/N=200,T=10k,Intstep=0.01./po
+incare.jpg>]
+<../../../Documents/MATLAB/MATLAB_Project/esn/N=600,T=10k,intstep=0.01/timeseri
+es.jpg, id=746, 1109.14375pt x 780.9175pt>
+File: ../../../Documents/MATLAB/MATLAB_Project/esn/N=600,T=10k,intstep=0.01/tim
+eseries.jpg Graphic file (type jpg)
+<use ../../../Documents/MATLAB/MATLAB_Project/esn/N=600,T=10k,intstep=0.01/time
+series.jpg>
+Package pdftex.def Info: ../../../Documents/MATLAB/MATLAB_Project/esn/N=600,T=1
+0k,intstep=0.01/timeseries.jpg  used on input line 1014.
+(pdftex.def)             Requested size: 341.65408pt x 240.54477pt.
+ [37 <../../../Documents/MATLAB/MATLAB_Project/esn/N=600,T=10k,intstep=0.01/tim
+eseries.jpg>]
+<../../../Documents/MATLAB/MATLAB_Project/esn/N=600,T=10k,intstep=0.01/spectra.
+jpg, id=756, 1124.2pt x 843.15pt>
+File: ../../../Documents/MATLAB/MATLAB_Project/esn/N=600,T=10k,intstep=0.01/spe
+ctra.jpg Graphic file (type jpg)
+<use ../../../Documents/MATLAB/MATLAB_Project/esn/N=600,T=10k,intstep=0.01/spec
+tra.jpg>
+Package pdftex.def Info: ../../../Documents/MATLAB/MATLAB_Project/esn/N=600,T=1
+0k,intstep=0.01/spectra.jpg  used on input line 1025.
+(pdftex.def)             Requested size: 405.57884pt x 304.17703pt.
+ [38 <../../../Documents/MATLAB/MATLAB_Project/esn/N=600,T=10k,intstep=0.01/spe
+ctra.jpg>]
+<../../../Documents/MATLAB/MATLAB_Project/esn/N=800,T=10k,Intsep=0.01/Greatsign
+al.jpg, id=771, 1124.2pt x 843.15pt>
+File: ../../../Documents/MATLAB/MATLAB_Project/esn/N=800,T=10k,Intsep=0.01/Grea
+tsignal.jpg Graphic file (type jpg)
+<use ../../../Documents/MATLAB/MATLAB_Project/esn/N=800,T=10k,Intsep=0.01/Great
+signal.jpg>
+Package pdftex.def Info: ../../../Documents/MATLAB/MATLAB_Project/esn/N=800,T=1
+0k,Intsep=0.01/Greatsignal.jpg  used on input line 1038.
+(pdftex.def)             Requested size: 440.84746pt x 330.62833pt.
+ [39 <../../../Documents/MATLAB/MATLAB_Project/esn/N=800,T=10k,Intsep=0.01/Grea
+tsignal.jpg>]
+<../../../Documents/MATLAB/MATLAB_Project/esn/N=800,T=10k,Intsep=0.01/greatsign
+alspectra.jpg, id=781, 1124.2pt x 843.15pt>
+File: ../../../Documents/MATLAB/MATLAB_Project/esn/N=800,T=10k,Intsep=0.01/grea
+tsignalspectra.jpg Graphic file (type jpg)
+<use ../../../Documents/MATLAB/MATLAB_Project/esn/N=800,T=10k,Intsep=0.01/great
+signalspectra.jpg>
+Package pdftex.def Info: ../../../Documents/MATLAB/MATLAB_Project/esn/N=800,T=1
+0k,Intsep=0.01/greatsignalspectra.jpg  used on input line 1047.
+(pdftex.def)             Requested size: 440.84746pt x 330.62833pt.
+
+[40 <../../../Documents/MATLAB/MATLAB_Project/esn/N=800,T=10k,Intsep=0.01/great
+signalspectra.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1053--1054
+
+ []
+
+<../../../Documents/MATLAB/MATLAB_Project/esn/N=800,T=40k,intstep=0.01/longrunh
+ighN.jpg, id=792, 1124.2pt x 843.15pt>
+File: ../../../Documents/MATLAB/MATLAB_Project/esn/N=800,T=40k,intstep=0.01/lon
+grunhighN.jpg Graphic file (type jpg)
+<use ../../../Documents/MATLAB/MATLAB_Project/esn/N=800,T=40k,intstep=0.01/long
+runhighN.jpg>
+Package pdftex.def Info: ../../../Documents/MATLAB/MATLAB_Project/esn/N=800,T=4
+0k,intstep=0.01/longrunhighN.jpg  used on input line 1057.
+(pdftex.def)             Requested size: 440.84746pt x 330.62833pt.
+[41 <../../../Documents/MATLAB/MATLAB_Project/esn/N=800,T=40k,intstep=0.01/long
+runhighN.jpg>]
+<../../../Documents/MATLAB/MATLAB_Project/esn/N=800,T=10k,Intsep=0.01/greatsign
+almap.jpg, id=803, 1124.2pt x 843.15pt>
+File: ../../../Documents/MATLAB/MATLAB_Project/esn/N=800,T=10k,Intsep=0.01/grea
+tsignalmap.jpg Graphic file (type jpg)
+<use ../../../Documents/MATLAB/MATLAB_Project/esn/N=800,T=10k,Intsep=0.01/great
+signalmap.jpg>
+Package pdftex.def Info: ../../../Documents/MATLAB/MATLAB_Project/esn/N=800,T=1
+0k,Intsep=0.01/greatsignalmap.jpg  used on input line 1067.
+(pdftex.def)             Requested size: 396.76001pt x 297.56421pt.
+ [42 <../../../Documents/MATLAB/MATLAB_Project/esn/N=800,T=10k,Intsep=0.01/grea
+tsignalmap.jpg>] [43]
+Underfull \hbox (badness 10000) in paragraph at lines 1103--1105
+
+ []
+
+[44]
+Underfull \hbox (badness 10000) in paragraph at lines 1144--1146
+
+ []
+
+<../../../Documents/MATLAB/MATLAB_Project/esn/uncombined.jpg, id=837, 1124.2pt 
+x 301.125pt>
+File: ../../../Documents/MATLAB/MATLAB_Project/esn/uncombined.jpg Graphic file 
+(type jpg)
+<use ../../../Documents/MATLAB/MATLAB_Project/esn/uncombined.jpg>
+Package pdftex.def Info: ../../../Documents/MATLAB/MATLAB_Project/esn/uncombine
+d.jpg  used on input line 1151.
+(pdftex.def)             Requested size: 440.84746pt x 118.08154pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<../../../Documents/MATLAB/MATLAB_Project/esn/combined.jpg, id=841, 1124.2pt x 
+333.245pt>
+File: ../../../Documents/MATLAB/MATLAB_Project/esn/combined.jpg Graphic file (t
+ype jpg)
+<use ../../../Documents/MATLAB/MATLAB_Project/esn/combined.jpg>
+Package pdftex.def Info: ../../../Documents/MATLAB/MATLAB_Project/esn/combined.
+jpg  used on input line 1158.
+(pdftex.def)             Requested size: 440.84746pt x 130.6769pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[45] [46 <../../../Documents/MATLAB/MATLAB_Project/esn/uncombined.jpg> <../../.
+./Documents/MATLAB/MATLAB_Project/esn/combined.jpg>]
+
+LaTeX Warning: Hyper reference `4.2' on page 47 undefined on input line 1169.
+
+<../../../Documents/MATLAB/MATLAB_Project/esn/first.jpg, id=860, 1124.2pt x 539
+.01375pt>
+File: ../../../Documents/MATLAB/MATLAB_Project/esn/first.jpg Graphic file (type
+ jpg)
+<use ../../../Documents/MATLAB/MATLAB_Project/esn/first.jpg>
+Package pdftex.def Info: ../../../Documents/MATLAB/MATLAB_Project/esn/first.jpg
+  used on input line 1175.
+(pdftex.def)             Requested size: 440.84746pt x 211.36597pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1180--1182
+
+ []
+
+[47 <../../../Documents/MATLAB/MATLAB_Project/esn/first.jpg>]
+<../../../Documents/MATLAB/MATLAB_Project/esn/second.jpg, id=868, 1124.2pt x 52
+1.95pt>
+File: ../../../Documents/MATLAB/MATLAB_Project/esn/second.jpg Graphic file (typ
+e jpg)
+<use ../../../Documents/MATLAB/MATLAB_Project/esn/second.jpg>
+Package pdftex.def Info: ../../../Documents/MATLAB/MATLAB_Project/esn/second.jp
+g  used on input line 1189.
+(pdftex.def)             Requested size: 440.84746pt x 204.67468pt.
+ [48 <../../../Documents/MATLAB/MATLAB_Project/esn/second.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1197--1199
+
+ []
+
+<../../../Documents/MATLAB/MATLAB_Project/esn/third.jpg, id=880, 1124.2pt x 503
+.8825pt>
+File: ../../../Documents/MATLAB/MATLAB_Project/esn/third.jpg Graphic file (type
+ jpg)
+<use ../../../Documents/MATLAB/MATLAB_Project/esn/third.jpg>
+Package pdftex.def Info: ../../../Documents/MATLAB/MATLAB_Project/esn/third.jpg
+  used on input line 1202.
+(pdftex.def)             Requested size: 440.84746pt x 197.58978pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1207--1209
+
+ []
+
+[49 <../../../Documents/MATLAB/MATLAB_Project/esn/third.jpg>]
+<../../../Documents/MATLAB/MATLAB_Project/esn/fourth.jpg, id=891, 1124.2pt x 57
+2.1375pt>
+File: ../../../Documents/MATLAB/MATLAB_Project/esn/fourth.jpg Graphic file (typ
+e jpg)
+<use ../../../Documents/MATLAB/MATLAB_Project/esn/fourth.jpg>
+Package pdftex.def Info: ../../../Documents/MATLAB/MATLAB_Project/esn/fourth.jp
+g  used on input line 1217.
+(pdftex.def)             Requested size: 440.84746pt x 224.35493pt.
+<../../../Documents/MATLAB/MATLAB_Project/esn/final.jpg, id=896, 1124.2pt x 580
+.1675pt>
+File: ../../../Documents/MATLAB/MATLAB_Project/esn/final.jpg Graphic file (type
+ jpg)
+<use ../../../Documents/MATLAB/MATLAB_Project/esn/final.jpg>
+Package pdftex.def Info: ../../../Documents/MATLAB/MATLAB_Project/esn/final.jpg
+  used on input line 1226.
+(pdftex.def)             Requested size: 440.84746pt x 227.50377pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[50 <../../../Documents/MATLAB/MATLAB_Project/esn/fourth.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1232--1233
+
+ []
+
+[51 <../../../Documents/MATLAB/MATLAB_Project/esn/final.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1251--1252
+
+ []
+
+[52] [53] [54] (./Scerbo, YR (2021).lol)
+\tf@lol=\write8
+\openout8 = `"Scerbo, YR (2021).lol"'.
+
+ (./creating_esn_reservoir_concise.m
+LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 
+20.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmtt.fd
+File: ts1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+) [55])
+(./running_hidden_layer.m [56] [57]) (./Initialise_Lorenz.m [58] [59])
+(./creating_whole_network.m [60] [61]) (./training_whole_network.m [62]
+[63] [64]) (./Predicting_with_network.m [65] [66]) (./Actual_z_return_map.m
+[67] [68]) [69]
+<../../../Documents/MATLAB/MATLAB_Project/esn/overfitting.png, id=1490, 929.472
+5pt x 341.275pt>
+File: ../../../Documents/MATLAB/MATLAB_Project/esn/overfitting.png Graphic file
+ (type png)
+<use ../../../Documents/MATLAB/MATLAB_Project/esn/overfitting.png>
+Package pdftex.def Info: ../../../Documents/MATLAB/MATLAB_Project/esn/overfitti
+ng.png  used on input line 1304.
+(pdftex.def)             Requested size: 440.84746pt x 161.86255pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1309--1310
+
+ []
+
+[70 <../../../Documents/MATLAB/MATLAB_Project/esn/overfitting.png>]
+(./Scerbo, YR (2021).bbl [71
+
+] [72] [73] [74]) [75]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1322.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1322.
+ (./Scerbo, YR (2021).aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1322.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1322.
+
+Package rerunfilecheck Info: File `"Scerbo, YR (2021)".out' has not changed.
+(rerunfilecheck)             Checksum: C233937F49C2DA7BDEDC266EA56BC414;1556.
+
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1322.
+ ) 
+Here is how much of TeX's memory you used:
+ 33688 strings out of 480608
+ 773473 string characters out of 5903629
+ 1477027 words of memory out of 5000000
+ 48213 multiletter control sequences out of 15000+600000
+ 544682 words of font info for 68 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 63i,14n,98p,1603b,2202s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/bbold-type1/bbold10.pfb
+></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb
+></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
+/usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></u
+sr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
+r/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr
+/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/l
+ocal/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/loc
+al/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/loc
+al/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local
+/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/t
+exlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texl
+ive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texli
+ve/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
+e/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/
+2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2
+020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/20
+20/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/local/texlive/2020
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2020/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2020/te
+xmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2020/texm
+f-dist/fonts/type1/public/cm-super/sftt1095.pfb>
+Output written on "Scerbo, YR (2021).pdf" (82 pages, 3753566 bytes).
+PDF statistics:
+ 1767 PDF objects out of 2073 (max. 8388607)
+ 1542 compressed objects within 16 object streams
+ 708 named destinations out of 1000 (max. 500000)
+ 587 words of extra memory for PDF output out of 10000 (max. 10000000)
+
